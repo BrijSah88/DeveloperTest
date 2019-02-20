@@ -1,0 +1,9 @@
+C:\Users\1009462\Downloads\YogeshTestExercise-master\YogeshTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\1009462\Downloads\YogeshTestExercise-master\YogeshTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\1009462\Downloads\YogeshTestExercise-master\YogeshTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csprojResolveAssemblyReference.cache
+C:\Users\1009462\Downloads\YogeshTestExercise-master\YogeshTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\1009462\Downloads\YogeshTestExercise-master\YogeshTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
+C:\Users\1009462\Downloads\DeveloperTest-master (1)\DeveloperTest-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\1009462\Downloads\DeveloperTest-master (1)\DeveloperTest-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\1009462\Downloads\DeveloperTest-master (1)\DeveloperTest-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\1009462\Downloads\DeveloperTest-master (1)\DeveloperTest-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
