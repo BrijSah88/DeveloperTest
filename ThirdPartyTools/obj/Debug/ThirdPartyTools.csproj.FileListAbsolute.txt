@@ -11,3 +11,8 @@ C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\ThirdPa
 C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
 C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
 C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
+C:\Users\1009462\Downloads\DeveloperTest-master (6)\DeveloperTest-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\1009462\Downloads\DeveloperTest-master (6)\DeveloperTest-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\1009462\Downloads\DeveloperTest-master (6)\DeveloperTest-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csprojResolveAssemblyReference.cache
+C:\Users\1009462\Downloads\DeveloperTest-master (6)\DeveloperTest-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\1009462\Downloads\DeveloperTest-master (6)\DeveloperTest-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
