@@ -10,3 +10,15 @@ C:\Users\1009462\Downloads\DeveloperTest-master (1)\DeveloperTest-master\FileInf
 C:\Users\1009462\Downloads\DeveloperTest-master (1)\DeveloperTest-master\FileInfoTest\obj\Debug\FileInfoTest.csprojResolveAssemblyReference.cache
 C:\Users\1009462\Downloads\DeveloperTest-master (1)\DeveloperTest-master\FileInfoTest\obj\Debug\FileInfoTest.dll
 C:\Users\1009462\Downloads\DeveloperTest-master (1)\DeveloperTest-master\FileInfoTest\obj\Debug\FileInfoTest.pdb
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\bin\Debug\FileInfoTest.dll.config
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\bin\Debug\FileInfoTest.dll
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\bin\Debug\FileInfoTest.pdb
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\bin\Debug\FileInfo.exe
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\bin\Debug\ThirdPartyTools.dll
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\bin\Debug\FileInfo.pdb
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\bin\Debug\ThirdPartyTools.pdb
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\obj\Debug\FileInfoTest.csprojResolveAssemblyReference.cache
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\obj\Debug\FileInfoTest.dll
+C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfoTest\obj\Debug\FileInfoTest.pdb
