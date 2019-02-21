@@ -22,3 +22,6 @@ C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInf
 C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfo\obj\Debug\FileInfo.csprojResolveAssemblyReference.cache
 C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfo\obj\Debug\FileInfo.exe
 C:\Users\1009462\Downloads\DeveloperTest-master (2)\DeveloperTest-master\FileInfo\obj\Debug\FileInfo.pdb
+C:\Users\1009462\Downloads\DeveloperTest-master (3)\DeveloperTest-master\FileInfo\bin\Debug\FileInfo.exe.config
+C:\Users\1009462\Downloads\DeveloperTest-master (3)\DeveloperTest-master\FileInfo\obj\Debug\FileInfo.exe
+C:\Users\1009462\Downloads\DeveloperTest-master (3)\DeveloperTest-master\FileInfo\obj\Debug\FileInfo.pdb
