@@ -16,7 +16,7 @@ namespace FileInfo
         public void Read_Input_User()
         {
             try
-            {
+            {                
                 Console.WriteLine("Please Enter Input (<functionality> <filename>)");
                 string strUserInput = Console.ReadLine();                
                 Console.WriteLine(Get_Version_Size(strUserInput));
@@ -84,17 +84,15 @@ namespace FileInfo
                 if (arrData.Length == 2)
                 {
                     string[] arrVersionList = ConfigurationManager.AppSettings["WhiteVersionList"].Trim().Split(',');
-                    string[] arrSizeList = ConfigurationManager.AppSettings["WhiteSizeList"].Trim().Split(',');
-
-                    FileDetails objFileDetails = new FileDetails();
+                    string[] arrSizeList = ConfigurationManager.AppSettings["WhiteSizeList"].Trim().Split(',');                    
 
                     if (arrVersionList.Contains(arrData[0].Trim()))
                     {
-                        return "File Version is : " + objFileDetails.Version(arrData[1].Trim());
+                        return "File Version is : " + GetVersion(arrData[1].Trim());
                     }
                     else if (arrSizeList.Contains(arrData[0].Trim()))
                     {
-                        return "File Size is : " + Convert.ToString(objFileDetails.Size(arrData[1].Trim()));
+                        return "File Size is : " + GetSize(arrData[1].Trim());
                     }
                     else
                     {
@@ -122,6 +120,28 @@ namespace FileInfo
             {
                 return "Exception from method PerformAction: " + ex.Message;
             }
+        }
+
+        /// <summary>
+        /// Calling Thirdparty for getting file version
+        /// </summary>
+        /// <param name="strFilename">filename as input</param>
+        /// <returns>returning file version</returns>
+        private string GetVersion(string strFilename)
+        {
+            FileDetails objFileDetails = new FileDetails();
+            return objFileDetails.Version(strFilename);
+        }
+
+        /// <summary>
+        /// Calling Thirdparty for getting file size
+        /// </summary>
+        /// <param name="strFilename">filename as input</param>
+        /// <returns>returning file size</returns>
+        private string GetSize(string strFilename)
+        {
+            FileDetails objFileDetails = new FileDetails();
+            return Convert.ToString(objFileDetails.Size(strFilename));
         }
     }
 }
